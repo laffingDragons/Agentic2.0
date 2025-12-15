@@ -11,3 +11,5 @@ wikipedia
 pypdf
 bs4
 pymupdf
+langchain_huggingface
+sentence-transformers
