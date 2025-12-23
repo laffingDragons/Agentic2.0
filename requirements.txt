@@ -18,3 +18,5 @@ langchain_google_genai
 langsmith
 langchain_pinecone
 langgraph
+chromadb
+langchain_output_parsers
